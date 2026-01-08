@@ -55,7 +55,7 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: *(add later if you want)*
+- LinkedIn: https://www.linkedin.com/in/bijaypoudel10/
 
 ---
 
