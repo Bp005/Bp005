@@ -8,7 +8,7 @@
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - **Languages:** Java, SQL, Python ,C ,C++
 - **Backend:** Spring Boot, Spring Security, REST APIs
@@ -18,7 +18,7 @@
 
 ---
 
-## 📌 Projects
+##  Projects
 
 ### 🏥 Hospital Management System (Backend API)
 - Spring Boot REST API
@@ -53,13 +53,10 @@
 ---
 
 ## 📫 Connect With Me
-
-- GitHub: https://github.com/YOUR_USERNAME
 - LinkedIn: https://www.linkedin.com/in/bijaypoudel10/
 
 ---
 
-⭐ I use GitHub to learn by building projects and improving them step by step.
 
 <!--
 **Bp005/Bp005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
